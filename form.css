@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(87, 94, 87);
+    background-image: url("hi.jpg");
+    background-size: cover;
+}
+h1{
+    background-color: rgb(85, 51, 100);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    color: rgb(167, 156, 132);
+    text-align: center;
+}
+#f1{
+    background-color: rgb(172, 145, 185);
+    font-family: Maiandra GD;
+    font-size:larger;
+    text-align: center;
+    margin-left: 580px ;
+    margin-right: 580px;
+    margin-top: 150px;
+    color: rgb(133, 131, 122);
+}
+input{
+    background-color: rgb(252, 252, 252);
+    color: rgb(17, 18, 19);
+}
+#a{
+    color: rgb(2, 10, 14);
+    font-family: Bell MT;
+    font-size: 18px;
+}
+::placeholder{
+    color: rgb(74, 82, 94);
+}
+
+form {
+    font-size: larger;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+input {
+    font-size: larger;
+}
